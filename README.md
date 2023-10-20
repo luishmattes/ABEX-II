@@ -7,3 +7,4 @@ Este repositório contém todos os materiais e projetos relacionados ao projeto 
 
 ## Integrantes do Grupo:
 
+Luis Henrique Mattes, Paulo Henrique Trentin, Gabriel Riva, João Vitor e Sidnei Silva
