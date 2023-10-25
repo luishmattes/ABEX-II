@@ -16,7 +16,7 @@ Um programa dinâmico que motiva você e seus amigos a terem hábitos mais saud�
 ## Conteúdo
 
 - Requisitos funcionais
-- 
+  
 Jogo de Perguntas e Respostas:
 
 ● O aplicativo deve fornecer um jogo de perguntas e respostas com várias 
