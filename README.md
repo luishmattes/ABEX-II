@@ -1,8 +1,11 @@
 # Equilíbrio e Saúde 
 
 **Nome do Aluno:** Luis Henrique Mattes de Souza; Gabriel Riva; João Vitor Emocri Lauschner; Paulo Henrique Trentin João Vitor Emocri; Sidnei Junior Pires da Silva.
+
 **Disciplina:** ABEX II
+
 **Professor:** Radames Pereira
+
 **Universidade:** Universidade Comunitária da Região de Chapecó - Unochapecó
 
 
