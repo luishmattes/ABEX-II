@@ -15,10 +15,11 @@ Um programa dinâmico que motiva você e seus amigos a terem hábitos mais saud�
 
 ## Conteúdo
 
-- Requisitos funcionais
+- # Requisitos funcionais
   
 
 Jogo de Perguntas e Respostas:
+
 
 
 ● O aplicativo deve fornecer um jogo de perguntas e respostas com várias 
@@ -29,6 +30,7 @@ resposta.
 
 
 Mini games de Saúde: 
+
 
 
 ● Quando o jogador perde no jogo, o aplicativo deve sugerir uma atividade 
@@ -42,6 +44,7 @@ sugerida.
 Dicas de Saúde:
 
 
+
 ● Quando o jogador responde corretamente a uma pergunta, o aplicativo deve 
 fornecer uma dica ou informação relacionada à saúde.
 
@@ -50,6 +53,8 @@ fornecer uma dica ou informação relacionada à saúde.
 Requisitos não funcionais
 
 Desempenho:
+
+
 
 ● O aplicativo deve ser responsivo e rápido, garantindo uma experiência de jogo 
 suave.
@@ -65,11 +70,13 @@ dispositivos móveis, tablets e computadores.
 Segurança: 
 
 
+
 ● Deve haver medidas de segurança para proteger os dados do jogador e garantir 
 que o jogo seja seguro para todas as idades. 
 
 
 Escalabilidade: 
+
 
 
 ● O aplicativo deve ser projetado para ser escalável, de modo que possa acomodar 
