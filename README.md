@@ -19,6 +19,7 @@ Um programa dinâmico que motiva você e seus amigos a terem hábitos mais saud�
   
 
 Jogo de Perguntas e Respostas:
+
 ● O aplicativo deve fornecer um jogo de perguntas e respostas com várias 
 categorias e níveis de dificuldade.
 
@@ -27,6 +28,7 @@ resposta.
 
 
 Mini games de Saúde: 
+
 ● Quando o jogador perde no jogo, o aplicativo deve sugerir uma atividade 
 saudável, como beber um copo de água, fazer um alongamento ou realizar 10 
 polichinelos. 
@@ -36,6 +38,7 @@ polichinelos.
 sugerida.
 
 Dicas de Saúde:
+
 ● Quando o jogador responde corretamente a uma pergunta, o aplicativo deve 
 fornecer uma dica ou informação relacionada à saúde.
 
@@ -44,6 +47,7 @@ fornecer uma dica ou informação relacionada à saúde.
 Requisitos não funcionais
 
 Desempenho:
+
 ● O aplicativo deve ser responsivo e rápido, garantindo uma experiência de jogo 
 suave.
 
@@ -56,11 +60,13 @@ Compatibilidade de Plataforma:
 dispositivos móveis, tablets e computadores.
 
 Segurança: 
+
 ● Deve haver medidas de segurança para proteger os dados do jogador e garantir 
 que o jogo seja seguro para todas as idades. 
 
 
 Escalabilidade: 
+
 ● O aplicativo deve ser projetado para ser escalável, de modo que possa acomodar 
 um grande número de jogadores e perguntas à medida que o jogo cresce em 
 popularidade.](#requisitos)
