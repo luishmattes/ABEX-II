@@ -11,7 +11,7 @@
 
 ## Descrição
 
-Um programa dinâmico que motiva você e seus amigos a terem hábitos mais saudáveis com base no seu cobhecimento.
+Um programa dinâmico que motiva você e seus amigos a terem hábitos mais saudáveis com base no seu conhecimento.
 
 ## Conteúdo
 
