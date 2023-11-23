@@ -1,6 +1,6 @@
 # Equilíbrio e Saúde 
 
-**Nome do Aluno:** Luis Henrique Mattes de Souza; Gabriel Riva; João Vitor Emocri Lauschner; Paulo Henrique Trentin; João Vitor Emocri; Sidnei Junior Pires da Silva; Marco Antônio Stanicki Luiz.
+**Acadêmicos:** Gabriel Riva; João Vitor Emocri; Luis Henrique Mattes de Souza; Marco Antônio Stanicki Luiz; Paulo Henrique Trentin; Sidnei Júnior Pires da Silva.
 
 **Disciplina:** ABEX II
 
