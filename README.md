@@ -84,14 +84,22 @@ um grande número de jogadores e perguntas à medida que o jogo cresce em
 popularidade.
 
 Regras de negócio
+
 Horários de Lembrete: 
+
 ● O aplicativo deve permitir que os jogadores definam horários específicos para 
 receber lembretes de atividades saudáveis. 
+
+
 ● Os lembretes não devem ser intrusivos e podem ser personalizados pelo jogador.
 Registro de Progresso: 
+
+
 ● O progresso do jogador, incluindo o número de perguntas respondidas 
 corretamente, o desempenho no jogo e a conclusão das atividades saudáveis, deve 
 ser registrado. 
+
+
 ● Os jogadores devem poder visualizar seu histórico de progresso
 
 
