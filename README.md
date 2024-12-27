@@ -1,6 +1,6 @@
 # Equilíbrio e Saúde 
 
-**Acadêmicos:** Gabriel Riva; João Vitor Emocri; Luis Henrique Mattes de Souza; Marco Antônio Stanicki Luiz; Paulo Henrique Trentin; Sidnei Júnior Pires da Silva.
+**Acadêmicos:** Gabriel Riva; João Vitor Remocri; Luis Henrique Mattes de Souza; Marco Antônio Stanicki Luiz; Paulo Henrique Trentin; Sidnei Júnior Pires da Silva.
 
 **Disciplina:** ABEX II
 
